@@ -1,0 +1,18 @@
+{
+    // Not overshot when searching the parental directory
+    "ProjRootStopAtHomeDir": true,
+    // Markers for the root directory
+    "ProjRootIndicators": ["*.sublime-project", ".git", "setup.py", "setup.cfg"],
+    // The root directory of source code. It can be 'src' or empty (ie. same as project directory)
+    "PyUnitSourceRoot": "",
+    // Default directory name for the tests
+    "PyUnitTestsRoot": "tests",
+    // Default prefix name for testing directories and files
+    "PyUnitTestPrefix": "test_",
+    // Tests structure can be one of: flat, follow-hierarchy, side-by-side, or nose
+    "PyUnitTestsStructure": "nose",
+    // External test runner command
+    "PyUnitCmd": "nosetests -q --with-doctest",
+    // Regular expression pattern for parsing the nosetests result (with-machineout)
+    "PyUnitResultRegex": "^[ ]*File \"(...*?)\", line ([0-9]*)"
+}

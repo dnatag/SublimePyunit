@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Pyunit: Source/Test Switching",
+        "command": "py_unit_src_test_switch"
+    },
+    {
+        "caption": "Pyunit: Run Test for Source",
+        "command": "py_unit_run_test"
+    },
+    {
+        "caption": "Pyunit: Run All Tests",
+        "command": "py_unit_run_all_tests"
+    }
+]

@@ -1,0 +1,12 @@
+[    
+    // Switch source and test file view
+    { "command": "py_unit_src_test_switch", "keys": ["ctrl+f9"] },
+    // Run a single test file
+    { "command": "py_unit_run_test", "keys":["ctrl+f10"] },
+    // Run all test files under the test root directory
+    { "command": "py_unit_run_all_tests", "keys":["ctrl+alt+f10"] },
+    // navigate the results: Next
+    { "command": "next_result", "keys": ["ctrl+]"] },
+    // navigate the results: Preivous
+    { "command": "prev_result", "keys": ["ctrl+["] }
+]
