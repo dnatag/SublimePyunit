@@ -1,0 +1,13 @@
+Initial Public Release of Sublime Pyunit
+========================================
+
+Features
+----------
+- Run a single test (Ctrl + F10)
+- Run all tests (Ctrl + Option + F10)
+- Navigate to the error code with up and down arrow
+- Switch between source code and test code in a side-by-side panel (Ctrl + F9)
+- Three choice of test organization styles 
+    * Nose test organizaiton style (default).
+    * Side-by-side test organization style.
+    * Hiearchical test organization style.
