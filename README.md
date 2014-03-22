@@ -18,7 +18,7 @@ Installation Instruction:
 -------------------------
 Prerequisite: Install the test runner package [nose](https://pypi.python.org/pypi/nose/) from PyPI.
 
-1. Automatic installation via Package Control
+1. Automatic installation via Package Control. Search for [Python Unittest Helper](https://sublime.wbond.net/packages/Python%20Unittest%20Helper) under Package Control.
 2. Manual installation via github
 Clone the git repository directly into the Packages folder
 
